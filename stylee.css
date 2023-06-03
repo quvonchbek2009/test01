@@ -1,0 +1,139 @@
+section img{
+    width: 100%;
+    height: 900px;
+    margin-top: 50px;
+    padding: 30px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1500px;
+}
+li{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+    font: bold;
+    margin-top: -860px;
+    color: white;
+
+}
+.hd5{
+    color: white;
+    margin-left: 1900px;
+    margin-top: -15px;
+}
+.img1{
+    width: 250px;
+    height: 250px;
+    margin-top: -300px;
+    color: white;
+}
+.rasmlar img{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+.rasmlar{
+    display: flex;
+    flex-direction: row;
+}
+.MAIN{
+
+    width: 2400px;
+    height: 1000px;
+    border: 1px solid red;
+    margin-left: 1400px;
+    background-color: white;!important;
+    color: black;
+
+}
+.yangiliklar{
+    display: flex;
+    flex-direction: row;
+    font-family: Calibri,sans-serif;
+}
+.imgyozuv img{
+    width: 450px;
+    height: 250px;
+
+}
+.art1ist img{
+    width: 800px;
+    height: 500px;
+}
+.tatyana{
+    width: 450px;
+    height: 450px;
+    margin-left: 1300px;
+
+}
+.tatyana img{
+margin-left: 90px;
+
+}
+.shik{
+}
+.oxiri{
+    width: 700px;
+    height: 300px;
+    margin-left: 1400px;
+    margin-top: 80px;
+}
+
+
+.oxirgi1{
+    width: 700px;
+    height: 300px;
+    margin-left: 1400px;
+
+}
+.ovozberish{
+    margin-left: 2500px;
+    margin-top: -600px;
+}
+.ha{
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 1500px;
+    height: 300px;
+    margin-left: 2300px;
+    padding: 20px;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+
+
